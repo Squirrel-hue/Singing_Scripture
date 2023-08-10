@@ -1,4 +1,15 @@
+Isaiah/Isaiah_12/*.aux
+Isaiah/Isaiah_12/*.log
+Isaiah/Isaiah_12/*.synctex.gz
+Lamentations/*.log
+Lamentations/*.aux
+Lamentations/*.synctex.gz
 Latin/
+Scottish_Psalter_1650/*.aux
+Scottish_Psalter_1650/*.log
+Scottish_Psalter_1650/*.out
+Scottish_Psalter_1650/*.sh
+Scottish_Psalter_1650/*.synctex.gz
 Other_Psalters/
 compile.sh
 how_to_print
@@ -9,9 +20,4 @@ Scottish_Psalter_of_1650_KJV_side_by_side.pdf
 *.log
 *.out
 Why_Sing_Scottish_Psalter.pdf
-Lamentations/*.log
-Lamentations/*.aux
-Lamentations/*.synctex.gz
-Isaiah/Isaiah_12/*.aux
-Isaiah/Isaiah_12/*.log
-Isaiah/Isaiah_12/*.synctex.gz
+
