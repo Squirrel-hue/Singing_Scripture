@@ -9,4 +9,5 @@ Scottish_Psalter_of_1650_KJV_side_by_side.pdf
 *.log
 *.out
 Why_Sing_Scottish_Psalter.pdf
-
+.Lamentations/*.log
+.Lamentations/*.aux
