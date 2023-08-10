@@ -1,5 +1,5 @@
-.Latin/
-./Other_Psalters/
+Latin/
+Other_Psalters/
 compile.sh
 how_to_print
 psalter-1-e1464877696421-1024x808.png
@@ -9,5 +9,6 @@ Scottish_Psalter_of_1650_KJV_side_by_side.pdf
 *.log
 *.out
 Why_Sing_Scottish_Psalter.pdf
-.Lamentations/*.log
-.Lamentations/*.aux
+Lamentations/*.log
+Lamentations/*.aux
+Lamentations/*.synctex.gz
