@@ -1,0 +1,90 @@
+\documentclass{article}
+
+\usepackage{adforn}
+\usepackage[margin=0.6in,paperheight=8.5in,paperwidth=7in]{geometry}
+%\usepackage[margin=0.6in,paperheight=11in,paperwidth=8.5in]{geometry}
+\usepackage{hyperref}
+\usepackage{multicol}
+\usepackage{parskip}
+\newcommand \blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+
+% \renewcommand\thesection{{\arabic{section}}}
+%\renewcommand\thesubsection{Psalm \arabic{subsection}}
+% \renewcommand\thesubsection{Psalm\ \arabic{subsection}}
+
+\begin{document}
+
+\input{Text/00a_Title_Page.tex}
+
+\newpage
+
+\thispagestyle{empty} \mbox{} \newpage
+
+\begin{multicols}{2}
+\input{Text/00b_Introduction.tex}
+\end{multicols}
+
+\newpage
+
+\begin{center}
+\Large{\sc{Book I}}
+\addcontentsline{toc}{section}{Book I}
+\end{center}
+
+\begin{multicols}{2}
+\input{Text/01_Book_I.tex}
+\end{multicols}
+
+\begin{center}
+\Large{\sc{Book II}}
+\addcontentsline{toc}{section}{Book II}
+\end{center}
+\begin{multicols}{2}
+
+\input{Text/02_Book_II.tex}
+
+
+\end{multicols}
+
+\begin{center}
+\Large{\sc{Book III}}
+\addcontentsline{toc}{section}{Book III}
+\end{center}
+\begin{multicols}{2}
+
+\input{Text/03_Book_III.tex}
+
+\end{multicols}
+
+\begin{center}
+\Large{\sc{Book IV}}
+\addcontentsline{toc}{section}{Book IV}
+\end{center}
+\begin{multicols}{2}
+
+\input{Text/04_Book_IV.tex}
+
+\end{multicols}
+
+\begin{center}
+\Large{\sc{Book V}}
+\addcontentsline{toc}{section}{Book V}
+\end{center}
+\begin{multicols}{2}
+
+\input{Text/05_Book_V.tex}
+
+\end{multicols}
+
+\end{document}
+
+\subsection*{Psalm 128}
+\addcontentsline{toc}{subsection}{Psalm 128}
+
+
+
