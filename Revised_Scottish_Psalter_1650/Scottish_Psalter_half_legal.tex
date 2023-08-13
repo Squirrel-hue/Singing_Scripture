@@ -5,6 +5,9 @@
 %\usepackage[margin=0.6in,paperheight=11in,paperwidth=8.5in]{geometry}
 \usepackage{hyperref}
 \usepackage{multicol}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
 \usepackage{parskip}
 \newcommand \blfootnote[1]{%
   \begingroup
@@ -25,8 +28,10 @@
 
 \thispagestyle{empty} \mbox{} \newpage
 
+\input{Text/00b_Introduction_a.tex}
+
 \begin{multicols}{2}
-\input{Text/00b_Introduction.tex}
+\input{Text/00b_Introduction_b.tex}
 \end{multicols}
 
 \newpage

@@ -1,0 +1,11 @@
+---
+output:
+  pdf_document:
+    keep_tex: true
+---
+
+|Function|Singular|Plural|
+|:-:|:-:|:-:|
+|Subject| thou |ye|
+|Possessive|thy, thine | yours|
+|Object | thee| you
