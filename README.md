@@ -8,4 +8,4 @@ Naturally, the idea of creating music and singing can be understood as an implie
 
 To sing Psalms is to join voices with millenia of singers, songs that go back as far as Moses (perhaps as far back as 14th or 15th century B.C.)
 
-Early writings, of which the early utterances of Genesis (for instances, Lameth's discourse to his wives in Ge. 4) and Job, appear to, at a minimum, have a rhythm and structure, and these will 
+Early writings, of which the early utterances of Genesis (for instances, Lamech's discourse to his wives in Ge. 4) and Job, appear to, at a minimum, have a rhythm and structure, and these would lend themselves to music. 
