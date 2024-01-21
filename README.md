@@ -6,18 +6,21 @@ Naturally, the idea of creating music and singing can be understood as an implie
 
 # Psalms
 
-To sing Psalms is to join voices with millenia of singers, songs that go back as far as Moses (perhaps as far back as 14th or 15th century B.C.)
+To sing Psalms is to join voices with millennia of singers, songs that go back as far as Moses (perhaps as far back as 14th or 15th century B.C.)
 
 Early writings, of which the early utterances of Genesis (for instances, Lamech's discourse to his wives in Ge. 4) and Job, appear to, at a minimum, have a rhythm and structure, and these would lend themselves to music. But in the Psalms, we have a clear internal evidence of them being sung.
 
 # Reasons for Singing the Psalms
 
 1. The Psalms are Messianic to a sublime degree.
-2. The Psalms are first rate poetry.
+2. The Psalms are first-rate poetry.
 3. The Psalms contain expressions of the different aspects of worship.
 4. Singing leads to more rapid and effective memorization and aids in meditation.
+5. The Psalms are prayers and show worship in real-life situations in the history that God has chosen to preserve for our instructions (see The Situations of the Psalms below) 
 
 # Sources for Singing the Psalms
 
 1. Scottish Psalter of 1650
 2. Trinity Psalter Hymnal
+
+# The Situation
