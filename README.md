@@ -23,4 +23,8 @@ Early writings, of which the early utterances of Genesis (for instances, Lamech'
 1. Scottish Psalter of 1650
 2. Trinity Psalter Hymnal
 
-# The Situation
+# The Situations of the Psalms.
+
+It is my understanding that the Jews sing the introductory glosses, and they are actually "verse 1" in the Hebrew.
+
+1. Psalm 9 "For the Choir Director; on Muth-labben"
