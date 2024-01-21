@@ -27,4 +27,4 @@ Early writings, of which the early utterances of Genesis (for instances, Lamech'
 
 It is my understanding that the Jews sing the introductory glosses, and they are actually "verse 1" in the Hebrew.
 
-1. Psalm 9 "For the Choir Director; on Muth-labben"
+1. Psalm 9 "For the Choir Director; on Muth-labben"; where Muth-labben translates to "Death of the Son."
