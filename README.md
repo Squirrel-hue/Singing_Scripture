@@ -29,3 +29,4 @@ It is my understanding that the Jews sing the introductory glosses, and they are
 
 1. Psalm 3 "A Psalm of David. When he fled from Absalom his son." Absalom translates to "Father of Peace," and this gives us further insight into the 2 Samuel text.
 2. Psalm 9 "For the Choir Director. On Muth-labben. A Psalm of David" where Muth-labben translates to "Death of the Son."
+3. Psalm 30 "A Psalm. A Song at the Dedication of the House. Of David."  David had longed to build a house, a temple; he had danced before the Lord as the Ark was brought to Jerusalem.  Yet his desire would not be granted.  We see in this Psalm both his joy as well as the danger and reality of death both from war as well as disease and even old age.
