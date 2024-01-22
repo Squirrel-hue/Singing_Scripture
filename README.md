@@ -27,4 +27,5 @@ Early writings, of which the early utterances of Genesis (for instances, Lamech'
 
 It is my understanding that the Jews sing the introductory glosses, and they are actually "verse 1" in the Hebrew.
 
-1. Psalm 9 "For the Choir Director; on Muth-labben"; where Muth-labben translates to "Death of the Son."
+1. Psalm 3 "A Psalm of David. When he fled from Absalom his son." Absalom translates to "Father of Peace," and this gives us further insight into the 2 Samuel text.
+2. Psalm 9 "For the Choir Director. On Muth-labben. A Psalm of David" where Muth-labben translates to "Death of the Son."
